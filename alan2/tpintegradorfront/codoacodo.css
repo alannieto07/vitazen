@@ -44,6 +44,14 @@
     #textocarousel .texto{
         display: none !important;
     }
+
+    #confbsas  {
+        margin-right: 0rem !important;
+        margin-left: 0rem !important ;
+        padding-left: 0rem !important ;
+
+        
+    }
     
     .carousel-indicators{
         display: none !important;
