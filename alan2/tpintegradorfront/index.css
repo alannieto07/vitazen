@@ -32,8 +32,10 @@
 
     #textofooter{
         
-        margin-right: 0px !important;
-        margin-left: 3px !important;
+    padding-top: 0rem !important; 
+    margin-right: -18px !important;
+        margin-left: 40px !important;
+        padding-left: 10px!important;
         
     } 
 
@@ -42,7 +44,7 @@
     }
 
     #textocarousel .texto{
-        display: none !important;
+        font-size: 10px; 
     }
 
     #confbsas  {
@@ -51,6 +53,10 @@
         padding-left: 0rem !important ;
 
         
+    }
+
+    #textoform1 {
+        font-size: 10px !important;
     }
     
     .carousel-indicators{
